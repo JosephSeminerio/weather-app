@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/JosephSeminerio/weather-app/issues"
   },
-  "homepage": "https://github.com/JosephSeminerio/weather-app#readme"
+  "homepage": "https://github.com/JosephSeminerio/weather-app#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
 }
